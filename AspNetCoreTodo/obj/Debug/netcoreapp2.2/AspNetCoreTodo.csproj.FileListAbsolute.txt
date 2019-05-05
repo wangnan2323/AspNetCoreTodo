@@ -31,3 +31,7 @@ C:\Users\wangxin\source\repos\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp
 C:\Users\wangxin\source\repos\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.2\AspNetCoreTodo.dll
 C:\Users\wangxin\source\repos\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.2\AspNetCoreTodo.pdb
 C:\Users\wangxin\source\repos\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.2\AspNetCoreTodo.csproj.CopyComplete
+C:\Users\wangxin\source\repos\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.2\Razor\Views\Todo\Index.g.cshtml.cs
+C:\Users\wangxin\source\repos\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.2\Razor\Views\Todo\AddItemPartial.g.cshtml.cs
+C:\Users\wangxin\source\repos\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.2\Razor\Views\ManageUsers\Index.g.cshtml.cs
+C:\Users\wangxin\source\repos\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AdminActionsPartial.g.cshtml.cs
